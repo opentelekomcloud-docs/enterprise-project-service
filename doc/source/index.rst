@@ -1,3 +1,9 @@
-==========================================================
-Welcome to the documentation of enterprise-project-service
-==========================================================
+Enterprise Project Service
+==========================
+
+.. directive_wrapper::
+   :class: container-sbv
+
+   .. service_card::
+      :service_type: eps
+      :environment: public
