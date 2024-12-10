@@ -110,7 +110,7 @@ html_copy_source = False
 latex_documents = [
     ('index',
      'eps-umn.tex',
-     u'Enterprise Project Service - User Guide',
+    u'Enterprise Project Service - User Guide',
      u'OpenTelekomCloud', 'manual'),
 ]
 
