@@ -110,7 +110,7 @@ html_copy_source = False
 latex_documents = [
     ('index',
      'eps-api-ref.tex',
-     u'Enterprise Project Service - API Reference',
+    u'Enterprise Project Service - API Reference',
      u'OpenTelekomCloud', 'manual'),
 ]
 
