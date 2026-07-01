@@ -49,7 +49,7 @@ Request
    +--------------+-----------+--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
    | Parameter    | Mandatory | Type   | Description                                                                                                                                                                                                 |
    +==============+===========+========+=============================================================================================================================================================================================================+
-   | X-Auth-Token | No        | String | Specifies the user token. EPS is a global service. When calling the IAM API to obtain a user token, set **scope** to **domain**. The value of **X-Subject-Token** in the response header is the user token. |
+   | X-Auth-Token | Yes       | String | Specifies the user token. EPS is a global service. When calling the IAM API to obtain a user token, set **scope** to **domain**. The value of **X-Subject-Token** in the response header is the user token. |
    +--------------+-----------+--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 -  Example request
